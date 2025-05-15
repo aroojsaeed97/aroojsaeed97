@@ -9,8 +9,7 @@ grow through education and mentorship.
 
 - 🎓 Bachelor's in Computer Science – Software Engineering Concentration  
 - 🎓 Currently pursuing a Master's in Cybersecurity  
-- 🛡️ CompTIA Security+ | Microsoft Career Essentials in Cybersecurity | ServiceNow IT Leadership Professional  
-- 💼 Customer Relations Agent @ Race Communications  
+- 🛡️ Microsoft Career Essentials in Cybersecurity | ServiceNow IT Leadership Professional  
 - 🎯 Experience in: Software Development, Cybersecurity, Digital Marketing, and Affiliate Strategy  
 - ✨ Volunteer & Mentor: Empowering women in tech through community leadership  
 - 📣 Content Creator: 12.8K+ YouTube subscribers | 5K+ TikTok followers  
